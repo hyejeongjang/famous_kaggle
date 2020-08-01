@@ -31,7 +31,7 @@
 
 2. Bag of Words Meets Bags of Popcorn
    
-   - [IMDB Movie Reviews 데이터] (https://www.kaggle.com/c/word2vec-nlp-tutorial) 를 이용해서 자연어 처리 기법(NLP)에 대해 알아본다.
+   - [IMDB Movie Reviews 데이터](https://www.kaggle.com/c/word2vec-nlp-tutorial) 를 이용해서 자연어 처리 기법(NLP)에 대해 알아본다.
    - Kaggle에 나와있는 Tutorial을 따라하는 코드이다.
    - 참고
    - [Tutorial Part 1](https://www.kaggle.com/c/word2vec-nlp-tutorial/overview/part-1-for-beginners-bag-of-words)
